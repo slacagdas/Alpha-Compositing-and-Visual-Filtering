@@ -1,0 +1,33 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\slacg\\OneDrive\\Masa\u00FCst\u00FC\\cmpe360\\cmpe360_proje1\\",
+  "Documents": [],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 205,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 16,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
